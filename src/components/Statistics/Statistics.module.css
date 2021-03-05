@@ -1,0 +1,28 @@
+.list {
+  list-style: none;
+  margin: -10px;
+}
+
+.item {
+  margin: 10px;
+}
+
+.text {
+  font-size: 16px;
+  font-weight: 700;
+  color: rgb(183, 50, 245);
+}
+
+.feedback{
+  margin-left: 5px;
+  font-size: 16px;
+  font-weight: 900;
+  color: rgb(96, 70, 247);
+}
+
+.importantText {
+  margin-left: 5px;
+  font-size: 20px;
+  font-weight: 900;
+  color: rgb(243, 66, 12);
+}
