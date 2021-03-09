@@ -10,14 +10,15 @@
 .text {
   font-size: 16px;
   font-weight: 700;
+  text-transform: uppercase;
   color: rgb(183, 50, 245);
 }
 
-.feedback{
+.feedback {
   margin-left: 5px;
   font-size: 16px;
   font-weight: 900;
-  color: rgb(96, 70, 247);
+  color: rgb(60, 59, 63);
 }
 
 .importantText {
