@@ -22,6 +22,9 @@ class App extends Component {
   countTotalFeedback = () => {
     const values = Object.values(this.state);
     return values.reduce((total, value) => total + value, 0);
+    //или простой вариант для стистических трех кнопок
+    //const {good, neutral, bad} = this.state;
+    //return good + neutral + bad;
   };
 
   countPositiveFeedbackPercentage = () => {
